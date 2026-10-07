@@ -40,7 +40,7 @@ class Program
             new Manager("Əli Məmmədov", 2000),
             new Manager("Aysel Əliyeva", 2500),
             new Intern("Rəşad Həsənov", 500),
-            new Intern("Leyla Qasımova", 600)
+            new Intern("Abbas Ebusetderov", 600)
         };
         foreach (var emp in employees)
         {
